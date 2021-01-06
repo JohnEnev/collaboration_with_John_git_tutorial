@@ -27,3 +27,7 @@ $ git remote add origin https://github.com/saraghsm/collaboration_with_John_git_
 You can check the remote repositories with:
 
 $ git remote -v show
+
+To make a new branch:
+
+$ git checkout -b new_branch_name
